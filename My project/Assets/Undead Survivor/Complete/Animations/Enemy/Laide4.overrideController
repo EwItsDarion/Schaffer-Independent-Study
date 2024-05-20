@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Laide4
+  m_Controller: {fileID: 9100000, guid: 74a4967d6fc00154d8736e048105da86, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e8cbeef97d8e0e341a835971798200bc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e8cbeef97d8e0e341a835971798200bc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1d66f1b7e17060c48b4b68dbf6af2b21, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1d66f1b7e17060c48b4b68dbf6af2b21, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4c3407c0d6170874a9e14e701053240f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4c3407c0d6170874a9e14e701053240f, type: 2}
